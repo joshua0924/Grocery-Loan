@@ -1,0 +1,11 @@
+#input123 {
+  color: white;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+

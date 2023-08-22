@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "name": "Renzo pogi",
+        "username": "pogi",
+        "email": "rgrh@gmail.com",
+        "phone": "e444444445",
+        "position": "President",
+        "id": 1,
+        "votes": 6
+      },
+      {
+        "name": "lili cruz",
+        "username": "lili",
+        "email": "li@gmail.com",
+        "phone": "24242",
+        "position": "President",
+        "id": 2,
+        "votes": 2
+      },
+      {
+        "name": "rhrhr",
+        "username": "rica",
+        "email": "lili@gmail.com",
+        "phone": "4343",
+        "position": "V-Pres",
+        "id": 3,
+        "votes": 4
+      },
+      {
+        "name": "lili cruz",
+        "username": "bhtb",
+        "email": "liga.cruz.up@phinmaed.com",
+        "phone": "3434",
+        "position": "V-Pres",
+        "id": 4,
+        "votes": 26
+      }
+    ]
+  }
